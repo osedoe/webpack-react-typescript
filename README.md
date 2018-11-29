@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-- A few @types:
-  - /node
+- A few @types/:
+  - node
   - react
   - react-dom
 - webpack
